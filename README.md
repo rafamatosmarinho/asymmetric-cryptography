@@ -19,7 +19,7 @@ Este repositório contém um exemplo de criptografia assimétrica utilizando o m
 
 4. O diagrama a seguir ilustra o processo de comunicação criptografada entre as duas pessoas:
 
-![Diagrama de Fluxo da Criptografia Assimétrica](./images/A_flowchart_in_the_diagram_illustrates_asymmetric_.png)
+![Diagrama de Fluxo da Criptografia Assimétrica](flow.png)
 
 ### Dependências
 
