@@ -27,3 +27,12 @@ Certifique-se de ter as seguintes bibliotecas instaladas:
 
 ```bash
 pip install cryptography
+```
+
+### Execução
+
+Execute o arquivo em ambiente virtual python através da linha de comando abaixo:
+
+```bash
+python asymmetric_cryptography.py
+```
